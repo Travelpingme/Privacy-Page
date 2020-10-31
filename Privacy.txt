@@ -1,0 +1,25 @@
+Privacy of Your Data
+The privacy of your data is important to us. We pledge to process your data lawfully, fairly, and in a transparent manner. By design, we retain a minimal level of your data necessary to operate our service. If you do not agree with this policy, you may not use Appetize.io's products and services.
+
+"Your data" includes:
+
+Binaries you upload, and any data you provide through use of our website
+Any data generated on device while running your apps in our system
+Your personally identifiable information, including account profile information, and connection information when using our service including IP address, operating system, and browser type of the connecting device
+We will:
+
+Notify you promptly of any security breach of your data
+Permit you to delete your account and your data from our system
+Port your data out of our service through use of our API
+Adhere to the standards introduced by the European data protection law known as the General Data Protection Regulation (GDPR)
+We will not:
+
+Sell, market, or distribute your data to third parties
+Attempt to disassemble or reverse engineer your executable code
+Co-opt your intellectual property (app trademarks, etc.)
+Retain any data generated on device while running your apps in our system
+We may:
+
+Test and run binaries you upload to troubleshoot and improve our service
+Upload your data to third party services as part of our data management infrastructure (e.g. server hosting, file storage, backup)
+Divulge your data to law enforcement if we receive a valid subpoena - we will notify you if this happens, unless legally prohibited from doing so
